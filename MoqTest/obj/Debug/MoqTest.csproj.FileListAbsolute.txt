@@ -1,0 +1,15 @@
+D:\WPF\Moq\MoqTest\MoqTest\bin\Debug\MoqTest.exe.config
+D:\WPF\Moq\MoqTest\MoqTest\bin\Debug\MoqTest.exe
+D:\WPF\Moq\MoqTest\MoqTest\bin\Debug\MoqTest.pdb
+D:\WPF\Moq\MoqTest\MoqTest\obj\Debug\MoqTest.csprojAssemblyReference.cache
+D:\WPF\Moq\MoqTest\MoqTest\obj\Debug\MainWindow.g.cs
+D:\WPF\Moq\MoqTest\MoqTest\obj\Debug\App.g.cs
+D:\WPF\Moq\MoqTest\MoqTest\obj\Debug\MoqTest_MarkupCompile.cache
+D:\WPF\Moq\MoqTest\MoqTest\obj\Debug\MoqTest_MarkupCompile.lref
+D:\WPF\Moq\MoqTest\MoqTest\obj\Debug\MainWindow.baml
+D:\WPF\Moq\MoqTest\MoqTest\obj\Debug\MoqTest.g.resources
+D:\WPF\Moq\MoqTest\MoqTest\obj\Debug\MoqTest.Properties.Resources.resources
+D:\WPF\Moq\MoqTest\MoqTest\obj\Debug\MoqTest.csproj.GenerateResource.cache
+D:\WPF\Moq\MoqTest\MoqTest\obj\Debug\MoqTest.csproj.CoreCompileInputs.cache
+D:\WPF\Moq\MoqTest\MoqTest\obj\Debug\MoqTest.exe
+D:\WPF\Moq\MoqTest\MoqTest\obj\Debug\MoqTest.pdb

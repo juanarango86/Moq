@@ -1,0 +1,2 @@
+D:\WPF\Moq\moqTest\WpfApp1\UnitTestProject2\obj\Debug\UnitTestProject2.csprojAssemblyReference.cache
+D:\WPF\Moq\moqTest\WpfApp1\UnitTestProject2\obj\Debug\UnitTestProject2.csproj.CoreCompileInputs.cache

@@ -1,0 +1,5 @@
+D:\WPF\Moq\moqTest\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+D:\WPF\Moq\moqTest\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\WPF\Moq\moqTest\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\WPF\Moq\moqTest\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\WPF\Moq\moqTest\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
